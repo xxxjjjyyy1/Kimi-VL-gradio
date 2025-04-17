@@ -5,8 +5,8 @@
 
 **模型：**
 
-+ [Kimi-VL-Instruct]([https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct)：对于一般的多模态感知和理解、OCR、长视频和长文档、视频感知和智能体使用，我们推荐 Kimi-VL-A3B-Instruct 进行高效推理
-+ [Kimi-VL-A3B-Thinking](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking)：对于高级文本和多模态推理（例如数学），请考虑使用 Kimi-VL-A3B-Thinking
++ [Kimi-VL-Instruct]([https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct)：对于一般的多模态感知和理解、OCR、长视频和长文档、视频感知和智能体使用，我们推荐 Kimi-VL-A3B-Instruct 进行高效推理。
++ [Kimi-VL-A3B-Thinking](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking)：对于高级文本和多模态推理（例如数学），请考虑使用 Kimi-VL-A3B-Thinking 。
 
 **模型论文成果：**[Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)  
 
